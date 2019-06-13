@@ -1,0 +1,7 @@
+td {
+  max-width: 236px;
+}
+
+#done:checked {
+  text-decoration-line: line-through;
+}
